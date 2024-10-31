@@ -1,0 +1,8 @@
+{
+    "name": "paymentspring/paymentspring-woocommerce",
+    "require": {
+      "paymentspring/paymentspring-php": "@dev",
+      "twig/twig": "^1.32"
+    }
+}
+
